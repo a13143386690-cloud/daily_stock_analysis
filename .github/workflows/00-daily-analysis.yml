@@ -36,6 +36,8 @@ jobs:
     environment: STOCK_LIST
     # 添加超时限制，防止任务卡死
     timeout-minutes: ${{ fromJSON(vars.ANALYSIS_TIMEOUT_MINUTES || '30') }}
+    permissions:
+      contents: write
     
     steps:
       - name: 随机延迟（避免固定时间访问）
@@ -582,6 +584,18 @@ jobs:
             reports/
             logs/
           retention-days: 30
+      
+      - name: 回存报告到仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/*.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "无新报告可回存"
+          else
+            git commit -m "dsa-report: run #${{ github.run_number }} (run_id ${{ github.run_id }})"
+            git push
+          fi
       
       - name: 显示运行结果
         if: always()
