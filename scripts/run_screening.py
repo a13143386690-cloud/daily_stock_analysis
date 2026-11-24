@@ -1,1 +1,140 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5YWo5biC5Zy66YCJ6IKh5omr5o+P77yITXVzZSDluILlnLrpm7fovr7jgIzku4rml6XlgJnpgInjgI3kuJPnlKjlhaXlj6PvvInjgIIKCuWbuuWumuetlueVpe+8mm1vbWVudHVtX3F1YWxpdHnvvIjotovlir/otKjph48gdjEuMe+8ieOAggrlm7rlrprop4TliJnmjpLlkI3vvJp1c2VfbGxtPUZhbHNlIOKAlOKAlCDmnIDnu4jmjpLlkI3lj6rmjInlvJXmk47op4TliJnor4TliIbvvIhmYWN0b3LvvInvvIwK5LiN55SoIExMTSDkuozmrKHmjpLluo/vvJvlhaXpgInnkIbnlLHnlLHop4TliJnlm6DlrZDkuI7kv6Hlj7flrZfmrrXnlJ/miJDjgIIK57uT5p6c5YaZ5YWlIHJlcG9ydHMvc2NyZWVuaW5nX1lZWVlNTURELm1k77yI5ZCr5py65Zmo5Y+v6K+7IEpTT04g5Z2X77yJ77yMCueUseW3peS9nOa1geOAjOWbnuWtmOaKpeWRiuWIsOS7k+W6k+OAjeatpemqpOmajyBEU0Eg5oql5ZGK5LiA5bm25o+Q5Lqk77yMTXVzZSDkvqfoh6rliqjlr7zlhaXjgIIKCueKtuaAgeWPo+W+hO+8iOS4jiBNdXNlIOmhtemdoue6puWumuS4gOiHtO+8ie+8mgotIG9r77ya5omr5o+P5oiQ5Yqf5LiU5pyJ5YCZ6YCJCi0gbm9fY2FuZGlkYXRlc++8muaJq+aPj+aIkOWKn+OAgeaXoOiCoeelqOmAmui/h++8iOmhtemdouaYvuekuuOAjOS7iuaXpeaXoOWAmemAieOAje+8iQotIGRhdGFfaW5zdWZmaWNpZW5077ya6KGM5oOF5b+r54Wn5ou/5LiN5Yiw77yI6aG16Z2i5pi+56S644CM5pWw5o2u5LiN6Laz44CN77yJCi0gZXJyb3LvvJrov5DooYzlvILluLjvvIjpobXpnaLmmL7npLrjgIzmlbDmja7kuI3otrPjgI3lubbpmYTljp/lm6DvvIkKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBkYXRhY2xhc3NlcwppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQgdHJhY2ViYWNrCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lem9uZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKClNUUkFURUdZID0gIm1vbWVudHVtX3F1YWxpdHkiCk1BUktFVCA9ICJjbiIKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50LnBhcmVudApzeXMucGF0aC5pbnNlcnQoMCwgc3RyKFJPT1QpKQoKCmRlZiBfcmVhc29uX2Zyb21fcnVsZXMocGljazogZGljdCkgLT4gc3RyOgogICAgIiIi5Zyo5byV5pOO5pyq57uZIHJhbmtpbmdfcmVhc29uIOaXtu+8jOeUqOinhOWImeWboOWtkOS4juS/oeWPt+aLvOWFpemAieeQhueUse+8iOWPqumZiOi/sOS6i+Wunu+8ieOAgiIiIgogICAgcGFydHM6IGxpc3Rbc3RyXSA9IFtdCiAgICBmcyA9IHBpY2suZ2V0KCJmYWN0b3Jfc2NvcmVzIikgb3Ige30KICAgIGlmIGZzOgogICAgICAgIHRvcCA9IHNvcnRlZChmcy5pdGVtcygpLCBrZXk9bGFtYmRhIGt2OiBrdlsxXSwgcmV2ZXJzZT1UcnVlKVs6M10KICAgICAgICBwYXJ0cy5hcHBlbmQoIuWboOWtkOW+l+WIhumdoOWJje+8miIgKyAi44CBIi5qb2luKGYie2t9IHt2Oi4xZn0iIGZvciBrLCB2IGluIHRvcCkpCiAgICBpZiBwaWNrLmdldCgibWFfYnVsbGlzaCIpOgogICAgICAgIHBhcnRzLmFwcGVuZCgi5Z2H57q/5aSa5aS05o6S5YiXIikKICAgIGlmIHBpY2suZ2V0KCJwcmljZV9hYm92ZV9tYTIwIik6CiAgICAgICAgcGFydHMuYXBwZW5kKCLogqHku7fkvY3kuo4gTUEyMCDkuIrmlrkiKQogICAgaWYgcGljay5nZXQoIm1hY2Rfc3RhdHVzIik6CiAgICAgICAgcGFydHMuYXBwZW5kKGYiTUFDRCDnirbmgIHvvJp7cGlja1snbWFjZF9zdGF0dXMnXX0iKQogICAgaWYgcGljay5nZXQoImJyZWFrb3V0XzIwZF9wY3QiKSBpcyBub3QgTm9uZToKICAgICAgICBwYXJ0cy5hcHBlbmQoZiLot50gMjAg5pel6auY54K5IHtwaWNrWydicmVha291dF8yMGRfcGN0J106LjFmfSUiKQogICAgaWYgcGljay5nZXQoImluZHVzdHJ5Iik6CiAgICAgICAgcGFydHMuYXBwZW5kKGYi5omA5bGe6KGM5Lia77yae3BpY2tbJ2luZHVzdHJ5J119IikKICAgIHJldHVybiAi77ybIi5qb2luKHBhcnRzKQoKCmRlZiBfcmVuZGVyKHJlc3VsdF9kaWN0OiBkaWN0IHwgTm9uZSwgc3RhdHVzOiBzdHIsIGVycm9yOiBzdHIgPSAiIikgLT4gc3RyOgogICAgbm93ID0gZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0YykKICAgIHJ1bl9udW1iZXIgPSBvcy5lbnZpcm9uLmdldCgiR0lUSFVCX1JVTl9OVU1CRVIiLCAiIikKICAgIHJ1bl9pZCA9IG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfUlVOX0lEIiwgIiIpCiAgICBsaW5lczogbGlzdFtzdHJdID0gW10KICAgIGxpbmVzLmFwcGVuZChmIiMg5YWo5biC5Zy66YCJ6IKhIMK3IOi2i+WKv+i0qOmHj++8iHtTVFJBVEVHWX3vvIkiKQogICAgbGluZXMuYXBwZW5kKCIiKQogICAgbGluZXMuYXBwZW5kKGYiLSDnirbmgIE6IHtzdGF0dXN9IikKICAgIGxpbmVzLmFwcGVuZChmIi0g562W55WlOiB7U1RSQVRFR1l9IikKICAgIGlmIHJlc3VsdF9kaWN0OgogICAgICAgIGxpbmVzLmFwcGVuZChmIi0g562W55Wl54mI5pysOiB7cmVzdWx0X2RpY3QuZ2V0KCdzdHJhdGVneV92ZXJzaW9uJywgJycpfSIpCiAgICAgICAgbGluZXMuYXBwZW5kKGYiLSDmjpLlkI3mqKHlvI86IHtyZXN1bHRfZGljdC5nZXQoJ3JhbmtpbmdfbW9kZScsICcnKX3vvIhsbG1fcmFua2VkPXtyZXN1bHRfZGljdC5nZXQoJ2xsbV9yYW5rZWQnKX3vvIkiKQogICAgICAgIGxpbmVzLmFwcGVuZChmIi0g5YWo5biC5Zy65b+r54Wn5pWwOiB7cmVzdWx0X2RpY3QuZ2V0KCdzbmFwc2hvdF9jb3VudCcpfSIpCiAgICAgICAgbGluZXMuYXBwZW5kKGYiLSDnoazov4fmu6TlkI7liankvZk6IHtyZXN1bHRfZGljdC5nZXQoJ2FmdGVyX2ZpbHRlcl9jb3VudCcpfSIpCiAgICAgICAgbGluZXMuYXBwZW5kKGYiLSDlv6vnhafmnaXmupA6IHtyZXN1bHRfZGljdC5nZXQoJ3NuYXBzaG90X3NvdXJjZScsICcnKX0iKQogICAgbGluZXMuYXBwZW5kKGYiLSDov5DooYznvJblj7c6IHJ1biAje3J1bl9udW1iZXJ9IChydW5faWQge3J1bl9pZH0pIikKICAgIGxpbmVzLmFwcGVuZChmIi0g55Sf5oiQ5pe26Ze0KFVUQyk6IHtub3cuc3RyZnRpbWUoJyVZLSVtLSVkICVIOiVNOiVTJyl9IikKICAgIGlmIGVycm9yOgogICAgICAgIGxpbmVzLmFwcGVuZChmIi0g5byC5bi4OiB7ZXJyb3J9IikKICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIGlmIHJlc3VsdF9kaWN0OgogICAgICAgIHBpY2tzID0gcmVzdWx0X2RpY3QuZ2V0KCJwaWNrcyIpIG9yIFtdCiAgICAgICAgaWYgc3RhdHVzID09ICJvayI6CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiIyMg5YCZ6YCJIikKICAgICAgICAgICAgZm9yIHAgaW4gcGlja3M6CiAgICAgICAgICAgICAgICByZWFzb24gPSBwLmdldCgicmFua2luZ19yZWFzb24iKSBvciBfcmVhc29uX2Zyb21fcnVsZXMocCkKICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIiMjIyAje3AuZ2V0KCdyYW5rJyl9IHtwLmdldCgnbmFtZScpfSAoe3AuZ2V0KCdjb2RlJyl9KSIpCiAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiItIOacgOe7iOWIhjoge3AuZ2V0KCdmaW5hbF9zY29yZScpfe+8iOinhOWImeWIhiB7cC5nZXQoJ3NjcmVlbl9zY29yZScpfe+8iSIpCiAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiItIOeOsOS7tzoge3AuZ2V0KCdwcmljZScpfSAg5rao6LeM5bmFOiB7cC5nZXQoJ2NoYW5nZV9wY3QnKX0lICDmiJDkuqTpop06IHtwLmdldCgnYW1vdW50Jyl9IikKICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIi0g5YWl6YCJ55CG55SxOiB7cmVhc29ufSIpCiAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiItIOWboOWtkOWIhjoge2pzb24uZHVtcHMocC5nZXQoJ2ZhY3Rvcl9zY29yZXMnKSBvciB7fSwgZW5zdXJlX2FzY2lpPUZhbHNlKX0iKQogICAgICAgICAgICAgICAgcmlza3MgPSBwLmdldCgncmlza19zdW1tYXJ5Jykgb3IgJycKICAgICAgICAgICAgICAgIGZsYWdzID0gcC5nZXQoJ3Jpc2tfZmxhZ3MnKSBvciBbXQogICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiLSDkuLvopoHpo47pmak6IHtyaXNrc30ge2ZsYWdzIGlmIGZsYWdzIGVsc2UgJyd9Ii5zdHJpcCgpKQogICAgICAgICAgICAgICAgZ2FwcyA9IHAuZ2V0KCdkYWlseV9xdWFsaXR5X2ZsYWdzJykgb3IgJycKICAgICAgICAgICAgICAgIGlmIGdhcHM6CiAgICAgICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiLSDmlbDmja7nvLrlj6M6IHtnYXBzfSIpCiAgICAgICAgZGVnID0gcmVzdWx0X2RpY3QuZ2V0KCJkZWdyYWRhdGlvbiIpIG9yIFtdCiAgICAgICAgc2VyciA9IHJlc3VsdF9kaWN0LmdldCgic291cmNlX2Vycm9ycyIpIG9yIFtdCiAgICAgICAgaWYgZGVnOgogICAgICAgICAgICBsaW5lcy5hcHBlbmQoIiIpCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIumZjee6p+ivtOaYjjoge2pzb24uZHVtcHMoZGVnLCBlbnN1cmVfYXNjaWk9RmFsc2UpfSIpCiAgICAgICAgaWYgc2VycjoKICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYi5pWw5o2u5rqQ6ZSZ6K+vOiB7anNvbi5kdW1wcyhzZXJyLCBlbnN1cmVfYXNjaWk9RmFsc2UpfSIpCiAgICAgICAgbGluZXMuYXBwZW5kKCIiKQogICAgICAgIGxpbmVzLmFwcGVuZCgiYGBganNvbiIpCiAgICAgICAgbGluZXMuYXBwZW5kKGpzb24uZHVtcHMocmVzdWx0X2RpY3QsIGVuc3VyZV9hc2NpaT1GYWxzZSwgZGVmYXVsdD1zdHIpKQogICAgICAgIGxpbmVzLmFwcGVuZCgiYGBgIikKICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpICsgIlxuIgoKCmRlZiBtYWluKCkgLT4gaW50OgogICAgcmVwb3J0cyA9IFJPT1QgLyAicmVwb3J0cyIKICAgIHJlcG9ydHMubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgZGF5ID0gZGF0ZXRpbWUubm93KHRpbWV6b25lLnV0Yykuc3RyZnRpbWUoIiVZJW0lZCIpCiAgICBvdXQgPSByZXBvcnRzIC8gZiJzY3JlZW5pbmdfe2RheX0ubWQiCiAgICB0cnk6CiAgICAgICAgZnJvbSBzcmMuc2VydmljZXMuc2NyZWVuaW5nLnBpcGVsaW5lIGltcG9ydCBzY3JlZW4KCiAgICAgICAgcmVzdWx0ID0gc2NyZWVuKAogICAgICAgICAgICBTVFJBVEVHWSwKICAgICAgICAgICAgbWFya2V0PU1BUktFVCwKICAgICAgICAgICAgdXNlX2xsbT1GYWxzZSwgICMg56ys5LiA6L2u5Zu65a6a6KeE5YiZ5o6S5ZCN77yM5LiN5YGaIEFJIOS6jOasoeaOkuW6jwogICAgICAgICAgICBleHBsYWluX2ZpbHRlcnM9VHJ1ZSwKICAgICAgICApCiAgICAgICAgcmVzdWx0X2RpY3QgPSBkYXRhY2xhc3Nlcy5hc2RpY3QocmVzdWx0KQogICAgICAgIHBpY2tzID0gcmVzdWx0X2RpY3QuZ2V0KCJwaWNrcyIpIG9yIFtdCiAgICAgICAgaWYgKHJlc3VsdF9kaWN0LmdldCgic25hcHNob3RfY291bnQiKSBvciAwKSA9PSAwOgogICAgICAgICAgICBzdGF0dXMgPSAiZGF0YV9pbnN1ZmZpY2llbnQiCiAgICAgICAgZWxpZiBub3QgcGlja3M6CiAgICAgICAgICAgIHN0YXR1cyA9ICJub19jYW5kaWRhdGVzIgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHN0YXR1cyA9ICJvayIKICAgICAgICBvdXQud3JpdGVfdGV4dChfcmVuZGVyKHJlc3VsdF9kaWN0LCBzdGF0dXMpLCBlbmNvZGluZz0idXRmLTgiKQogICAgICAgIHByaW50KGYic2NyZWVuaW5nIGRvbmU6IHN0YXR1cz17c3RhdHVzfSBwaWNrcz17bGVuKHBpY2tzKX0gLT4ge291dH0iKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBlcnIgPSB0cmFjZWJhY2suZm9ybWF0X2V4YyhsaW1pdD01KQogICAgICAgIHRyeToKICAgICAgICAgICAgb3V0LndyaXRlX3RleHQoX3JlbmRlcihOb25lLCAiZXJyb3IiLCBlcnJbLTgwMDpdKSwgZW5jb2Rpbmc9InV0Zi04IikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBwYXNzCiAgICAgICAgcHJpbnQoZiJzY3JlZW5pbmcgZmFpbGVkOlxue2Vycn0iKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcmFpc2UgU3lzdGVtRXhpdChtYWluKCkpCg==
+# -*- coding: utf-8 -*-
+"""全市场选股扫描（Muse 市场雷达「今日候选」专用入口）。
+
+固定策略：momentum_quality（趋势质量 v1.1）。
+固定规则排名：use_llm=False —— 最终排名只按引擎规则评分（factor），
+不用 LLM 二次排序；入选理由由规则因子与信号字段生成。
+结果写入 reports/screening_YYYYMMDD.md（含机器可读 JSON 块），
+由工作流「回存报告到仓库」步骤随 DSA 报告一并提交，Muse 侧自动导入。
+
+状态口径（与 Muse 页面约定一致）：
+- ok：扫描成功且有候选
+- no_candidates：扫描成功、无股票通过（页面显示「今日无候选」）
+- data_insufficient：行情快照拿不到（页面显示「数据不足」）
+- error：运行异常（页面显示「数据不足」并附原因）
+"""
+from __future__ import annotations
+
+import dataclasses
+import json
+import os
+import sys
+import traceback
+from datetime import datetime, timezone
+from pathlib import Path
+
+STRATEGY = "momentum_quality"
+MARKET = "cn"
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+
+
+def _reason_from_rules(pick: dict) -> str:
+    """在引擎未给 ranking_reason 时，用规则因子与信号拼入选理由（只陈述事实）。"""
+    parts: list[str] = []
+    fs = pick.get("factor_scores") or {}
+    if fs:
+        top = sorted(fs.items(), key=lambda kv: kv[1], reverse=True)[:3]
+        parts.append("因子得分靠前：" + "、".join(f"{k} {v:.1f}" for k, v in top))
+    if pick.get("ma_bullish"):
+        parts.append("均线多头排列")
+    if pick.get("price_above_ma20"):
+        parts.append("股价位于 MA20 上方")
+    if pick.get("macd_status"):
+        parts.append(f"MACD 状态：{pick['macd_status']}")
+    if pick.get("breakout_20d_pct") is not None:
+        parts.append(f"距 20 日高点 {pick['breakout_20d_pct']:.1f}%")
+    if pick.get("industry"):
+        parts.append(f"所属行业：{pick['industry']}")
+    return "；".join(parts)
+
+
+def _render(result_dict: dict | None, status: str, error: str = "") -> str:
+    now = datetime.now(timezone.utc)
+    run_number = os.environ.get("GITHUB_RUN_NUMBER", "")
+    run_id = os.environ.get("GITHUB_RUN_ID", "")
+    lines: list[str] = []
+    lines.append(f"# 全市场选股 · 趋势质量（{STRATEGY}）")
+    lines.append("")
+    lines.append(f"- 状态: {status}")
+    lines.append(f"- 策略: {STRATEGY}")
+    if result_dict:
+        lines.append(f"- 策略版本: {result_dict.get('strategy_version', '')}")
+        lines.append(f"- 排名模式: {result_dict.get('ranking_mode', '')}（llm_ranked={result_dict.get('llm_ranked')}）")
+        lines.append(f"- 全市场快照数: {result_dict.get('snapshot_count')}")
+        lines.append(f"- 硬过滤后剩余: {result_dict.get('after_filter_count')}")
+        lines.append(f"- 快照来源: {result_dict.get('snapshot_source', '')}")
+    lines.append(f"- 运行编号: run #{run_number} (run_id {run_id})")
+    lines.append(f"- 生成时间(UTC): {now.strftime('%Y-%m-%d %H:%M:%S')}")
+    if error:
+        lines.append(f"- 异常: {error}")
+    lines.append("")
+    if result_dict:
+        picks = result_dict.get("picks") or []
+        if status == "ok":
+            lines.append("## 候选")
+            for p in picks:
+                reason = p.get("ranking_reason") or _reason_from_rules(p)
+                lines.append("")
+                lines.append(f"### #{p.get('rank')} {p.get('name')} ({p.get('code')})")
+                lines.append(f"- 最终分: {p.get('final_score')}（规则分 {p.get('screen_score')}）")
+                lines.append(f"- 现价: {p.get('price')}  涨跌幅: {p.get('change_pct')}%  成交额: {p.get('amount')}")
+                lines.append(f"- 入选理由: {reason}")
+                lines.append(f"- 因子分: {json.dumps(p.get('factor_scores') or {}, ensure_ascii=False)}")
+                risks = p.get('risk_summary') or ''
+                flags = p.get('risk_flags') or []
+                lines.append(f"- 主要风险: {risks} {flags if flags else ''}".strip())
+                gaps = p.get('daily_quality_flags') or ''
+                if gaps:
+                    lines.append(f"- 数据缺口: {gaps}")
+        deg = result_dict.get("degradation") or []
+        serr = result_dict.get("source_errors") or []
+        if deg:
+            lines.append("")
+            lines.append(f"降级说明: {json.dumps(deg, ensure_ascii=False)}")
+        if serr:
+            lines.append(f"数据源错误: {json.dumps(serr, ensure_ascii=False)}")
+        lines.append("")
+        lines.append("```json")
+        lines.append(json.dumps(result_dict, ensure_ascii=False, default=str))
+        lines.append("```")
+    return "\n".join(lines) + "\n"
+
+
+def main() -> int:
+    reports = ROOT / "reports"
+    reports.mkdir(parents=True, exist_ok=True)
+    day = datetime.now(timezone.utc).strftime("%Y%m%d")
+    out = reports / f"screening_{day}.md"
+    try:
+        from src.services.screening.pipeline import screen
+
+        result = screen(
+            STRATEGY,
+            market=MARKET,
+            use_llm=False,  # 第一轮固定规则排名，不做 AI 二次排序
+            explain_filters=True,
+        )
+        result_dict = dataclasses.asdict(result)
+        picks = result_dict.get("picks") or []
+        if (result_dict.get("snapshot_count") or 0) == 0:
+            status = "data_insufficient"
+        elif not picks:
+            status = "no_candidates"
+        else:
+            status = "ok"
+        out.write_text(_render(result_dict, status), encoding="utf-8")
+        print(f"screening done: status={status} picks={len(picks)} -> {out}")
+    except Exception:
+        err = traceback.format_exc(limit=5)
+        try:
+            out.write_text(_render(None, "error", err[-800:]), encoding="utf-8")
+        except Exception:
+            pass
+        print(f"screening failed:\n{err}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
