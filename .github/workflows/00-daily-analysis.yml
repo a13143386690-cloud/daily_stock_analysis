@@ -466,10 +466,18 @@ jobs:
           
         run: |
           # 解析自选股配置：
+          # 0. Muse「市场雷达」自选股名单（config/watchlist.json，由 Muse 每日同步，最高优先）
           # 1. Repository/Environment secrets 或 Repository variables（STOCK_LIST_CONFIG）
           # 2. 同名 Environment variables 注入的 runner 环境变量（STOCK_LIST）
           # 3. 最小默认值
-          if [ -n "${STOCK_LIST_CONFIG:-}" ]; then
+          if [ -f "config/watchlist.json" ]; then
+            WL=$(python3 -c "import json;print(','.join(json.load(open('config/watchlist.json'))['codes']))" 2>/dev/null || true)
+            if [ -n "$WL" ]; then
+              export STOCK_LIST="$WL"
+              echo "📋 使用 Muse 自选股名单（config/watchlist.json）：$STOCK_LIST"
+            fi
+          fi
+          if [ -z "${WL:-}" ] && [ -n "${STOCK_LIST_CONFIG:-}" ]; then
             export STOCK_LIST="$STOCK_LIST_CONFIG"
           elif [ -z "${STOCK_LIST:-}" ]; then
             export STOCK_LIST="600519"
